@@ -110,7 +110,6 @@ If you are forced to use one single feedback loop address for multiple instances
   </serverConf>
   ```
 
-Adobe Campaign's Deliverability service manages your subscription to feedback loop services for the following ISPs: AOL, BlueTie, Comcast, Cox, EarthLink, FastMail, Gmail, Hotmail, HostedEmail, Libero, Mail.ru, MailTrust, OpenSRS, QQ, RoadRunner, Synacor, Telenor, Terra, UnitedOnline, USA, XS4ALL, Yahoo, Yandex, Zoho.
 
 ## List-Unsubscribe {#list-unsubscribe-}
 
